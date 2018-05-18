@@ -1,8 +1,6 @@
 # My Resume
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
-</a>
+![](http://p1cjg886l.bkt.clouddn.com/cv2.png)
 
 ## Introduction
 
@@ -24,7 +22,3 @@ $ npm install
 $ npm install -g gulp
 $ gulp
 ```
-
-## LICENSE
-
-MIT © [DIYgod](http://github.com/DIYgod)
